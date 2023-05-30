@@ -69,7 +69,7 @@ void explainStack(){
     st.push(12);
     st.push(90);
     st.emplace(88);
-
+    st.size();
     cout<< st.top()<<endl;
     st.pop();
 
