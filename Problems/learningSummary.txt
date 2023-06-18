@@ -1,0 +1,4 @@
+recursion 
+    print 1-N 
+    print text N times 
+    print 
