@@ -9,7 +9,7 @@ int fun( int N){
 
 int main(){
 
-    int N;
+    int N;   
     cin>>N;
     cout<<fun(N);
 }
