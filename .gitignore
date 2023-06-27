@@ -1,3 +1,5 @@
 # binary executable files
 *.exe
 *.out
+*.vscode
+*.json
